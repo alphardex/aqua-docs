@@ -1,0 +1,33 @@
+{
+  "name": "aqua-docs",
+  "version": "1.0.0",
+  "description": "[TOC]",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphardex/aqua-docs.git"
+  },
+  "keywords": [
+    "aqua.css",
+    "docs"
+  ],
+  "author": "alphardex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphardex/aqua-docs/issues"
+  },
+  "homepage": "https://github.com/alphardex/aqua-docs#readme",
+  "dependencies": {
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
