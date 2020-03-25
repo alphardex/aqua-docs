@@ -37,6 +37,8 @@ module.exports = {
           "components/gauge"
         ]
       }
-    ]
+    ],
+    repo: "alphardex/aqua.css",
+    repoLabel: "源码"
   }
 };
