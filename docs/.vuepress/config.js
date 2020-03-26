@@ -23,8 +23,10 @@ module.exports = {
           "components/radio",
           "components/checkbox",
           "components/switch",
-          "components/progress",
           "components/range",
+          "components/rate",
+          "components/form",
+          "components/progress",
           "components/tooltip",
           "components/dialog",
           "components/pagination",
@@ -32,7 +34,6 @@ module.exports = {
           "components/dropdown",
           "components/timeline",
           "components/accordion",
-          "components/rate",
           "components/loading",
           "components/gauge"
         ]
