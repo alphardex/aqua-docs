@@ -1,5 +1,7 @@
 # Gauge 仪表盘
 
+## 基础用法
+
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="BaydVvQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Gauge (No SVG)">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/BaydVvQ">
   Gauge (No SVG)</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
@@ -13,10 +15,10 @@
 
 | 名称                  | 作用                       |
 | --------------------- | -------------------------- |
-| --gauge-value         | gauge的值                  |
-| --gauge-max-value     | gauge的最大值              |
+| --gauge-value         | gauge 的值                 |
+| --gauge-max-value     | gauge 的最大值             |
 | --percentage          | 百分比，根据值自动计算而来 |
 | --bg-color            | 背景色                     |
-| --gauge-color         | gauge条的颜色              |
-| --gauge-color-lighter | gauge槽的颜色              |
+| --gauge-color         | gauge 条的颜色             |
+| --gauge-color-lighter | gauge 槽的颜色             |
 | --text-color          | 文本颜色                   |
