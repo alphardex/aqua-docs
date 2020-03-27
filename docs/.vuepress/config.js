@@ -36,6 +36,7 @@ module.exports = {
           "components/accordion",
           "components/loading",
           "components/badge",
+          "components/alert",
           "components/dialog",
           "components/gauge"
         ]
