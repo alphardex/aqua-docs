@@ -35,7 +35,8 @@ module.exports = {
           "components/timeline",
           "components/accordion",
           "components/loading",
-          "components/gauge"
+          "components/gauge",
+          "components/badge"
         ]
       }
     ],
