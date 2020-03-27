@@ -1,5 +1,7 @@
 # Dialog 对话框
 
+使用前注意：IE、Edge、Safari 暂不支持`<dialog>`标签，请自行用 JS 实现相关功能
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="JjdmEpy" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Dialog">

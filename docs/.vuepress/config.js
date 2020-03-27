@@ -28,15 +28,16 @@ module.exports = {
           "components/form",
           "components/progress",
           "components/tooltip",
-          "components/dialog",
           "components/pagination",
           "components/nav",
+          "components/breadcrumb",
           "components/dropdown",
           "components/timeline",
           "components/accordion",
           "components/loading",
-          "components/gauge",
-          "components/badge"
+          "components/badge",
+          "components/dialog",
+          "components/gauge"
         ]
       }
     ],

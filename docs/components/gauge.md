@@ -1,5 +1,7 @@
 # Gauge 仪表盘
 
+使用前注意：IE、Firefox 暂不支持`conic-gradient()`，请自行用其他手段实现相关功能
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="BaydVvQ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Gauge (No SVG)">
