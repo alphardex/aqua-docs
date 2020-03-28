@@ -6,41 +6,53 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: "首页", link: "/" },
-      { text: "组件", link: "/guide/installation/" }
+      { text: "组件", link: "/basic/button/" }
     ],
     sidebar: [
       {
-        title: "指南",
+        title: "通用",
         collapsable: false,
-        children: ["guide/installation", "guide/customization"]
+        children: ["basic/button", "basic/icon"]
       },
       {
-        title: "组件",
+        title: "表单",
         collapsable: false,
         children: [
-          "components/button",
-          "components/input",
-          "components/radio",
-          "components/checkbox",
-          "components/switch",
-          "components/range",
-          "components/rate",
-          "components/form",
-          "components/icon",
-          "components/progress",
-          "components/tooltip",
-          "components/pagination",
-          "components/nav",
-          "components/breadcrumb",
-          "components/dropdown",
-          "components/timeline",
-          "components/accordion",
-          "components/loading",
-          "components/badge",
-          "components/alert",
-          "components/dialog",
-          "components/gauge"
+          "form/checkbox",
+          "form/form",
+          "form/input",
+          "form/radio",
+          "form/range",
+          "form/rate",
+          "form/switch"
         ]
+      },
+      {
+        title: "数据",
+        collapsable: false,
+        children: [
+          "data/accordion",
+          "data/badge",
+          "data/gauge",
+          "data/pagination",
+          "data/progress",
+          "data/timeline",
+          "data/tooltip"
+        ]
+      },
+      {
+        title: "导航",
+        collapsable: false,
+        children: [
+          "navigation/breadcrumb",
+          "navigation/dropdown",
+          "navigation/nav"
+        ]
+      },
+      {
+        title: "反馈",
+        collapsable: false,
+        children: ["notice/alert", "notice/dialog", "notice/loading"]
       }
     ],
     repo: "alphardex/aqua.css",

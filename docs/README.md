@@ -5,7 +5,7 @@ heroImage: /logo.jpg
 heroText: aqua.css
 tagline: 为美好的CSS世界献上祝福！
 actionText: 快速上手 →
-actionLink: /guide/installation/
+actionLink: /basic/button/
 features:
   - title: 易用
     details: 诸如 React、Vue 之类框架一概不需掌握，参照组件 demo 复制粘贴就能跑出效果来
