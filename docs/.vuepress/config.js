@@ -26,6 +26,7 @@ module.exports = {
           "components/range",
           "components/rate",
           "components/form",
+          "components/icon",
           "components/progress",
           "components/tooltip",
           "components/pagination",
