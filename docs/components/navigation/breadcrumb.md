@@ -1,5 +1,7 @@
 # Breadcrumb 面包屑
 
+用于展示当前页面的路径，并能向上返回
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="css,result" data-user="alphardex" data-slug-hash="WNvLvgX" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Breadcrumb">

@@ -1,5 +1,7 @@
 # Range 滑块
 
+通过拖动滑块进行输入
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="dyogGNa" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Input Range">

@@ -1,5 +1,7 @@
 # Pagination 分页
 
+通过分页来展示数据
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="js,result" data-user="alphardex" data-slug-hash="xxGyqNB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Pagination">

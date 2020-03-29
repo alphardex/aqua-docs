@@ -1,5 +1,7 @@
 # Switch 开关
 
+用于在两种状态之间进行切换
+
 ## 基础用法
 
 <p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="MWwZrdm" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Switch">
