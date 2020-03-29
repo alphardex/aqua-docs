@@ -7,7 +7,8 @@ module.exports = {
     nav: [
       { text: "首页", link: "/" },
       { text: "指南", link: "/guide/installation" },
-      { text: "组件", link: "/components/basic/button" }
+      { text: "组件", link: "/components/basic/button" },
+      { text: "观念", link: "/idea/original" }
     ],
     sidebar: {
       "/guide/": [
@@ -28,7 +29,6 @@ module.exports = {
           collapsable: false,
           children: [
             "form/checkbox",
-            "form/form",
             "form/input",
             "form/radio",
             "form/range",
@@ -63,6 +63,13 @@ module.exports = {
           title: "反馈",
           collapsable: false,
           children: ["notice/alert", "notice/dialog", "notice/loading"]
+        }
+      ],
+      "/idea/": [
+        {
+          title: "观念",
+          collapsable: false,
+          children: ["original"]
         }
       ]
     },
