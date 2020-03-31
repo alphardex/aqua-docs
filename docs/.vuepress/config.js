@@ -8,6 +8,7 @@ module.exports = {
       { text: "首页", link: "/" },
       { text: "指南", link: "/guide/installation" },
       { text: "组件", link: "/components/basic/button" },
+      { text: "例子", link: "/examples/form" },
       { text: "观念", link: "/idea/original" }
     ],
     sidebar: {
@@ -64,6 +65,13 @@ module.exports = {
           title: "反馈",
           collapsable: false,
           children: ["notice/alert", "notice/dialog", "notice/loading"]
+        }
+      ],
+      "/examples/": [
+        {
+          title: "例子",
+          collapsable: false,
+          children: ["form.md", "data.md", "others.md"]
         }
       ],
       "/idea/": [
