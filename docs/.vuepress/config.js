@@ -45,6 +45,7 @@ module.exports = {
             "data/gauge",
             "data/pagination",
             "data/progress",
+            "data/table",
             "data/tag",
             "data/timeline",
             "data/tooltip"
