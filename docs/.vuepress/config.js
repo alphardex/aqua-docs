@@ -4,23 +4,34 @@ module.exports = {
   title: "aqua.css",
   description: "documentation for aqua.css",
   themeConfig: {
-    nav: [
-      { text: "首页", link: "/" },
-      { text: "指南", link: "/guide/installation" },
-      { text: "组件", link: "/components/basic/button" },
-      { text: "例子", link: "/examples/form" },
-      { text: "观念", link: "/idea/original" }
+    nav: [{
+        text: "首页",
+        link: "/"
+      },
+      {
+        text: "指南",
+        link: "/guide/installation"
+      },
+      {
+        text: "组件",
+        link: "/components/basic/button"
+      },
+      {
+        text: "例子",
+        link: "/examples/form"
+      },
+      {
+        text: "观念",
+        link: "/idea/original"
+      }
     ],
     sidebar: {
-      "/guide/": [
-        {
-          title: "指南",
-          collapsable: false,
-          children: ["installation", "customization"]
-        }
-      ],
-      "/components/": [
-        {
+      "/guide/": [{
+        title: "指南",
+        collapsable: false,
+        children: ["installation", "customization"]
+      }],
+      "/components/": [{
           title: "通用",
           collapsable: false,
           children: ["basic/button", "basic/icon"]
@@ -67,20 +78,16 @@ module.exports = {
           children: ["notice/alert", "notice/dialog", "notice/loading"]
         }
       ],
-      "/examples/": [
-        {
-          title: "例子",
-          collapsable: false,
-          children: ["form.md", "data.md", "others.md"]
-        }
-      ],
-      "/idea/": [
-        {
-          title: "观念",
-          collapsable: false,
-          children: ["original"]
-        }
-      ]
+      "/examples/": [{
+        title: "例子",
+        collapsable: false,
+        children: ["basic.md", "form.md", "data.md", "others.md"]
+      }],
+      "/idea/": [{
+        title: "观念",
+        collapsable: false,
+        children: ["original"]
+      }]
     },
     repo: "alphardex/aqua.css",
     repoLabel: "源码"
