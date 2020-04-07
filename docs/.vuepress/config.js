@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         text: "例子",
-        link: "/examples/form"
+        link: "/examples/basic"
       },
       {
         text: "观念",
