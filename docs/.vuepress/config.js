@@ -69,7 +69,8 @@ module.exports = {
           children: [
             "navigation/breadcrumb",
             "navigation/dropdown",
-            "navigation/nav"
+            "navigation/nav",
+            "navigation/step"
           ]
         },
         {
