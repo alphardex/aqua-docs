@@ -2,7 +2,7 @@
 
 以开关为例，原先的开关是这样子的
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="MWwZrdm" style="height: 545px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Switch">
+<p class="codepen" data-height="545" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="MWwZrdm" style="height: 545px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Switch">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/MWwZrdm">
   Switch</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -41,7 +41,7 @@
 
 如此，就得到了我们想要的效果
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="bGdOZPQ" style="height: 545px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Custom Switch">
+<p class="codepen" data-height="545" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="bGdOZPQ" style="height: 545px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Custom Switch">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/bGdOZPQ">
   Custom Switch</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
