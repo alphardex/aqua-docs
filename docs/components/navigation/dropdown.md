@@ -4,7 +4,7 @@
 
 ## 基础用法
 
-<p class="codepen" data-height="545" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="rNaNyev" style="height: 545px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="3D Dropdown Menu">
+<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="rNaNyev" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="3D Dropdown Menu">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/rNaNyev">
   3D Dropdown Menu</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
