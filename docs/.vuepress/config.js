@@ -83,7 +83,7 @@ module.exports = {
       "/examples/": [{
         title: "例子",
         collapsable: false,
-        children: ["basic.md", "form.md", "data.md", "others.md"]
+        children: ["basic.md", "form.md", "data.md"]
       }],
       "/idea/": [{
         title: "观念",
