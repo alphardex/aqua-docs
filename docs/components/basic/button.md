@@ -22,7 +22,7 @@
 
 ## 禁用状态
 
-<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="css,result" data-user="alphardex" data-slug-hash="qBdQqeb" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Disabled Button">
+<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="qBdQqeb" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Disabled Button">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/qBdQqeb">
   Disabled Button</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -31,7 +31,7 @@
 
 ## 加载状态
 
-<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="css,result" data-user="alphardex" data-slug-hash="mdJQONw" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Loading Button">
+<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="mdJQONw" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Loading Button">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/mdJQONw">
   Loading Button</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
@@ -49,7 +49,7 @@
 
 ## 幽灵形态
 
-<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="css,result" data-user="alphardex" data-slug-hash="ZEGmBgZ" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Ghost Button">
+<p class="codepen" data-height="450" data-theme-id="dark" data-default-tab="html,result" data-user="alphardex" data-slug-hash="ZEGmBgZ" style="height: 450px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Ghost Button">
   <span>See the Pen <a href="https://codepen.io/alphardex/pen/ZEGmBgZ">
   Ghost Button</a> by alphardex (<a href="https://codepen.io/alphardex">@alphardex</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
