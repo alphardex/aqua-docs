@@ -23,6 +23,10 @@ module.exports = {
       {
         text: "观念",
         link: "/idea/original"
+      },
+      {
+        text: '捐赠',
+        link: '/donate/donate'
       }
     ],
     sidebar: {
@@ -89,6 +93,11 @@ module.exports = {
         title: "观念",
         collapsable: false,
         children: ["original"]
+      }],
+      '/donate/': [{
+        title: '捐赠',
+        collapsable: false,
+        children: ['donate']
       }]
     },
     repo: "alphardex/aqua.css",
