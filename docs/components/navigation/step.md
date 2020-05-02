@@ -22,4 +22,3 @@
 | --line-color      | 步骤线的颜色     |
 | --default-color   | 默认状态下的颜色 |
 | --active-color    | 激活状态下的颜色 |
-| --line-width      | 步骤线的长度     |
