@@ -82,6 +82,11 @@ module.exports = {
           title: "反馈",
           collapsable: false,
           children: ["notice/alert", "notice/dialog", "notice/loading"]
+        },
+        {
+          title: '其他',
+          collapsable: false,
+          children: ['others/divider']
         }
       ],
       "/examples/": [{
