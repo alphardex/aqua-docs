@@ -86,7 +86,7 @@ module.exports = {
         {
           title: '其他',
           collapsable: false,
-          children: ['others/divider']
+          children: ['others/backtop', 'others/divider']
         }
       ],
       "/examples/": [{
