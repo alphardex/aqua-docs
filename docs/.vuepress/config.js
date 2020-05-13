@@ -21,6 +21,16 @@ module.exports = {
         link: "/examples/basic"
       },
       {
+        text: '生态',
+        items: [{
+          text: '项目',
+          items: [{
+            text: 'aqua.vue',
+            link: 'https://aquavue.netlify.com'
+          }]
+        }]
+      },
+      {
         text: "观念",
         link: "/idea/original"
       },
