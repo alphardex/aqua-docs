@@ -56,6 +56,7 @@ module.exports = {
           children: [
             "form/checkbox",
             "form/input",
+            "form/input-number",
             "form/radio",
             "form/range",
             "form/rate",

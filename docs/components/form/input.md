@@ -42,7 +42,6 @@
 | --valid-color        | 校验通过时边框的颜色   |
 | --border-color       | 边框的颜色             |
 | --focus-color        | 获得焦点时边框的颜色   |
-| --shadow-burst-color | 获得焦点时光爆的颜色   |
 
 ### .form-input-material
 
