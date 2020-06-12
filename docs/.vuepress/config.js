@@ -69,6 +69,7 @@ module.exports = {
           children: [
             "data/accordion",
             "data/badge",
+            "data/card",
             "data/carousel",
             "data/gauge",
             "data/pagination",
