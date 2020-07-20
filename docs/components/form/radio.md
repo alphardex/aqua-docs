@@ -15,11 +15,13 @@
 
 ### .form-check-input[type="radio"]
 
-| 名称                           | 作用                           |
-| ------------------------------ | ------------------------------ |
-| --radio-bg-color               | radio 背景的颜色               |
-| --border-color                 | radio 边框的颜色               |
-| --radio-hover-color            | 鼠标悬浮 radio 时边框的颜色    |
-| --radio-checked-color          | 勾选 radio 时填充的颜色        |
-| --radio-disabled-bg-color      | radio 被禁用时背景的颜色       |
-| --radio-disabled-checked-color | radio 被禁用且勾选时背景的颜色 |
+| 名称                        | 作用                           |
+| --------------------------- | ------------------------------ |
+| --radio-width               | radio 的长度                   |
+| --radio-bg                  | radio 背景的颜色               |
+| --radio-radius              | radio 的圆角长度               |
+| --radio-border-color        | radio 边框的颜色               |
+| --radio-hover-border-color  | 鼠标悬浮 radio 时边框的颜色    |
+| --radio-checked-bg          | 勾选 radio 时背景填充的颜色    |
+| --radio-disabled-bg         | radio 被禁用时背景的颜色       |
+| --radio-disabled-checked-bg | radio 被禁用且勾选时背景的颜色 |

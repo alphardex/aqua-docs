@@ -15,10 +15,10 @@
 
 ### .back-top
 
-| 名称                | 作用                             |
-| ------------------- | -------------------------------- |
-| --visibility-height | 滚动高度到达多少时才会出现该按钮 |
-| --right             | 按钮距离右边的距离               |
-| --bottom            | 按钮距离底部的距离               |
-| --active-color      | 鼠标悬浮状态时按钮的颜色         |
-| --icon-color        | 默认情况下按钮的颜色             |
+| 名称                        | 作用                                     |
+| --------------------------- | ---------------------------------------- |
+| --backtop-visibility-height | backtop 滚动高度到达多少时才会出现该按钮 |
+| --backtop-right             | backtop 按钮距离右边的距离               |
+| --backtop-bottom            | backtop 按钮距离底部的距离               |
+| --backtop-active-color      | backtop 鼠标悬浮状态时按钮的颜色         |
+| --backtop-icon-color        | backtop 默认情况下按钮的颜色             |

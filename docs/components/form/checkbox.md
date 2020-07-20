@@ -15,11 +15,13 @@
 
 ### .form-check-input[type="checkbox"]
 
-| 名称                              | 作用                              |
-| --------------------------------- | --------------------------------- |
-| --checkbox-bg-color               | checkbox 背景的颜色               |
-| --border-color                    | checkbox 边框的颜色               |
-| --checkbox-hover-color            | 鼠标悬浮 checkbox 时边框的颜色    |
-| --checkbox-checked-color          | 勾选 checkbox 时填充的颜色        |
-| --checkbox-disabled-bg-color      | checkbox 被禁用时背景的颜色       |
-| --checkbox-disabled-checked-color | checkbox 被禁用且勾选时背景的颜色 |
+| 名称                           | 作用                              |
+| ------------------------------ | --------------------------------- |
+| --checkbox-width               | checkbox 的长度                   |
+| --checkbox-bg                  | checkbox 背景的颜色               |
+| --checkbox-radius              | checkbox 的圆角长度               |
+| --checkbox-border-color        | checkbox 边框的颜色               |
+| --checkbox-hover-border-color  | 鼠标悬浮 checkbox 时边框的颜色    |
+| --checkbox-checked-bg          | 勾选 checkbox 时背景填充的颜色    |
+| --checkbox-disabled-bg         | checkbox 被禁用时背景的颜色       |
+| --checkbox-disabled-checked-bg | checkbox 被禁用且勾选时背景的颜色 |

@@ -15,7 +15,7 @@
 
 ### .pagination
 
-| 名称             | 作用                   |
-| ---------------- | ---------------------- |
-| --active-color   | page-item 激活时的颜色 |
-| --disabled-color | page-item 禁用时的颜色 |
+| 名称                        | 作用                   |
+| --------------------------- | ---------------------- |
+| --pagination-active-color   | page-item 激活时的颜色 |
+| --pagination-disabled-color | page-item 禁用时的颜色 |

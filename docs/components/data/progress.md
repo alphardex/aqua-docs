@@ -15,7 +15,9 @@
 
 ### .progress-bar
 
-| 名称             | 作用                |
-| ---------------- | ------------------- |
-| --bar-color      | progress 条子的颜色 |
-| --progress-color | progress 进度的颜色 |
+| 名称                 | 作用                |
+| -------------------- | ------------------- |
+| --progress-height    | progress 的高度     |
+| --progress-radius    | progress 的圆角长度 |
+| --progress-bar-color | progress 条子的颜色 |
+| --progress-color     | progress 进度的颜色 |

@@ -1,4 +1,4 @@
-# Table 表格
+# Table table
 
 用于展示数据
 
@@ -15,8 +15,10 @@
 
 ### .table
 
-| 名称               | 作用             |
-| ------------------ | ---------------- |
-| --row-border-color | 表格行边框的颜色 |
-| --thead-text-color | 表格头文字的颜色 |
-| --thead-bg-color   | 表格头背景的颜色 |
+| 名称                     | 作用                   |
+| ------------------------ | ---------------------- |
+| --table-row-border-color | table 行边框的颜色     |
+| --table-thead-color      | table 头文字的颜色     |
+| --table-thead-bg         | table 头背景的颜色     |
+| --table-td-padding       | table 单元格的内边距   |
+| --table-td-align         | table 单元格的文本对齐 |

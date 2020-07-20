@@ -17,12 +17,13 @@
 
 ### .gauge
 
-| 名称                  | 作用                       |
-| --------------------- | -------------------------- |
-| --gauge-value         | gauge 的值                 |
-| --gauge-max-value     | gauge 的最大值             |
-| --percentage          | 百分比，根据值自动计算而来 |
-| --bg-color            | 背景色                     |
-| --gauge-color         | gauge 条的颜色             |
-| --gauge-color-lighter | gauge 槽的颜色             |
-| --text-color          | 文本颜色                   |
+| 名称                         | 作用                               |
+| ---------------------------- | ---------------------------------- |
+| --gauge-width                | gauge 的宽度                       |
+| --gauge-value                | gauge 的值                         |
+| --gauge-max-value            | gauge 的最大值                     |
+| --gauge-percentage           | gauge 的百分比，根据值自动计算而来 |
+| --gauge-bg                   | gauge 的背景色                     |
+| --gauge-circle-color         | gauge 条的颜色                     |
+| --gauge-circle-color-lighter | gauge 槽的颜色                     |
+| --gauge-color                | gauge 的文本颜色                   |

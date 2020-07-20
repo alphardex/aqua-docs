@@ -15,10 +15,10 @@
 
 ### .step
 
-| 名称              | 作用             |
-| ----------------- | ---------------- |
-| --circle-color    | 步骤圈边框的颜色 |
-| --circle-bg-color | 步骤圈背景的颜色 |
-| --line-color      | 步骤线的颜色     |
-| --default-color   | 默认状态下的颜色 |
-| --active-color    | 激活状态下的颜色 |
+| 名称                 | 作用                  |
+| -------------------- | --------------------- |
+| --step-circle-color  | step 步骤圈边框的颜色 |
+| --step-circle-bg     | step 步骤圈背景的颜色 |
+| --step-line-color    | step 步骤线的颜色     |
+| --step-default-color | step 默认状态下的颜色 |
+| --step-active-color  | step 激活状态下的颜色 |

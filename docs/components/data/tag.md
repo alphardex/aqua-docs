@@ -15,6 +15,10 @@
 
 ### .tag
 
-| 名称        | 作用             |
-| ----------- | ---------------- |
-| --tag-color | tag 的背景的颜色 |
+| 名称            | 作用             |
+| --------------- | ---------------- |
+| --tag-height    | tag 的高度       |
+| --tag-padding   | tag 的内边距     |
+| --tag-font-size | tag 的字体大小   |
+| --tag-radius    | tag 的圆角大小   |
+| --tag-color     | tag 的背景的颜色 |

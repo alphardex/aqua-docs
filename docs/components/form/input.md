@@ -33,21 +33,23 @@
 
 ### .form-control
 
-| 名称                 | 作用                   |
-| -------------------- | ---------------------- |
-| --input-color        | 输入框背景的颜色       |
-| --placeholder-color  | 占位符的颜色           |
-| --default-color      | 默认情况下边框的颜色   |
-| --invalid-color      | 校验不通过时边框的颜色 |
-| --valid-color        | 校验通过时边框的颜色   |
-| --border-color       | 边框的颜色             |
-| --focus-color        | 获得焦点时边框的颜色   |
+| 名称                         | 作用                         |
+| ---------------------------- | ---------------------------- |
+| --input-padding              | input 的内边距               |
+| --input-bg                   | input 背景的颜色             |
+| --input-placeholder-color    | input 占位符的颜色           |
+| --input-radius               | input 的圆角长度             |
+| --input-border-color         | input 边框的颜色             |
+| --input-default-border-color | input 默认情况下边框的颜色   |
+| --input-invalid-border-color | input 校验不通过时边框的颜色 |
+| --input-valid-border-color   | input 校验通过时边框的颜色   |
+| --input-focus-border-color   | input 获得焦点时边框的颜色   |
 
 ### .form-input-material
 
-| 名称                  | 作用                      |
-| --------------------- | ------------------------- |
-| --default-color       | 默认情况下 label 的颜色   |
-| --invalid-color       | 校验不通过时 label 的颜色 |
-| --valid-color         | 校验通过时 label 的颜色   |
-| --border-bottom-color | 底部边框的颜色            |
+| 名称                         | 作用                      |
+| ---------------------------- | ------------------------- |
+| --input-default-border-color | 默认情况下 label 的颜色   |
+| --input-invalid-border-color | 校验不通过时 label 的颜色 |
+| --input-valid-border-color   | 校验通过时 label 的颜色   |
+| --input-border-bottom-color  | input 底部边框的颜色      |

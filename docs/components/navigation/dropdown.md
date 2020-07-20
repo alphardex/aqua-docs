@@ -15,10 +15,10 @@
 
 ### .dropdown
 
-| 名称                      | 作用                                    |
-| ------------------------- | --------------------------------------- |
-| --toggle-color            | 开关的颜色                              |
-| --menu-item-color         | dropdown-item 的背景颜色                |
-| --menu-item-hover-color   | 鼠标悬浮状态时 dropdown-item 的背景颜色 |
-| --menu-item-divider-color | 分割线的颜色                            |
-| --menu-text-color         | 文本颜色                                |
+| 名称                          | 作用                                                  |
+| ----------------------------- | ----------------------------------------------------- |
+| --dropdown-color              | dropdown 文本颜色                                     |
+| --dropdown-toggle-color       | dropdown 开关的颜色                                   |
+| --dropdown-item-color         | dropdown-item 的背景颜色                              |
+| --dropdown-item-hover-color   | dropdown-item 鼠标悬浮状态时 dropdown-item 的背景颜色 |
+| --dropdown-item-divider-color | dropdown-item 分割线的颜色                            |

@@ -15,7 +15,11 @@
 
 ### .form-control-range
 
-| 名称                 | 作用                 |
-| -------------------- | -------------------- |
-| --bar-color          | range 条子的颜色     |
-| --thumb-border-color | range 珠子边框的颜色 |
+| 名称                       | 作用                 |
+| -------------------------- | -------------------- |
+| --range-height             | range 的高度         |
+| --range-bar-bg             | range 条子的背景色   |
+| --range-bar-radius         | range 的圆角长度     |
+| --range-thumb-width        | range 珠子的宽度     |
+| --range-thumb-bg           | range 珠子的背景色   |
+| --range-thumb-border-color | range 珠子边框的颜色 |

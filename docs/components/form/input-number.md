@@ -15,8 +15,8 @@
 
 ### .input-spinner
 
-| 名称                    | 作用                           |
-| ----------------------- | ------------------------------ |
-| --spinner-default-color | 默认情况下计数器文本的颜色     |
-| --spinner-active-color  | 鼠标悬浮情况下计数器文本的颜色 |
-| --spinner-max-width     | 计数器中间部分的最大宽度       |
+| 名称                    | 作用                             |
+| ----------------------- | -------------------------------- |
+| --spinner-default-color | spinner 默认情况下文本的颜色     |
+| --spinner-active-color  | spinner 鼠标悬浮情况下文本的颜色 |
+| --spinner-max-width     | spinner 中间部分的最大宽度       |

@@ -15,8 +15,8 @@
 
 ### .accordion
 
-| 名称           | 作用                            |
-| -------------- | ------------------------------- |
-| --text-color   | 文本的颜色                      |
-| --active-color | accordion-item 展开时文本的颜色 |
-| --line-color   | 下划线的颜色                    |
+| 名称                     | 作用                                       |
+| ------------------------ | ------------------------------------------ |
+| --accordion-color        | accordion 文本的颜色                       |
+| --accordion-active-color | accordion-item 展开时 accordion 文本的颜色 |
+| --accordion-line-color   | accordion-item 下划线的颜色                |

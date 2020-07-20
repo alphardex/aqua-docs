@@ -15,9 +15,9 @@
 
 ### .nav
 
-| 名称                | 作用                     |
-| ------------------- | ------------------------ |
-| --underline-color   | 下划线的颜色             |
-| --text-color        | 文本的颜色               |
-| --text-fade-color   | 文本失去焦点淡出时的颜色 |
-| --active-link-color | 链接激活时的颜色         |
+| 名称                  | 作用                         |
+| --------------------- | ---------------------------- |
+| --nav-underline-color | nav 下划线的颜色             |
+| --nav-color           | nav 文本的颜色               |
+| --nav-active-color    | nav 链接激活时的颜色         |
+| --nav-inactive-color  | nav 文本失去焦点淡出时的颜色 |

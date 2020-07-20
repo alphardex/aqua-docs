@@ -15,9 +15,9 @@
 
 ### .divider
 
-| 名称                 | 作用                 |
-| -------------------- | -------------------- |
-| --divider-text       | 分割线的内容         |
-| --divider-text-color | 分割线文字的颜色     |
-| --divider-text-align | 分割线文字的对齐方式 |
-| --divider-color      | 分割线的颜色         |
+| 名称                   | 作用                   |
+| ---------------------- | ---------------------- |
+| --divider-text         | divider 的内容         |
+| --divider-border-color | divider 的颜色         |
+| --divider-color        | divider 文字的颜色     |
+| --divider-text-align   | divider 文字的对齐方式 |

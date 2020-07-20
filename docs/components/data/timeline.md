@@ -15,10 +15,10 @@
 
 ### .timeline
 
-| 名称                  | 作用           |
-| --------------------- | -------------- |
-| --text-color          | 文本颜色       |
-| --bg-color            | 页面背景颜色   |
-| --dot-color           | 时间点的颜色   |
-| --line-color          | 时间线的颜色   |
-| --timestamp-col-count | 时间戳分割栏数 |
+| 名称                     | 作用                      |
+| ------------------------ | ------------------------- |
+| --timeline-color         | timeline 文本颜色         |
+| --timeline-line-color    | timeline 时间线的颜色     |
+| --timeline-dot-bg        | timeline 时间点的背景颜色 |
+| --timeline-dot-color     | timeline 时间点的颜色     |
+| --timeline-timestamp-col | timeline 时间戳分割栏数   |

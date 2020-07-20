@@ -15,13 +15,17 @@
 
 ### .form-switch
 
-| 名称                            | 作用                            |
-| ------------------------------- | ------------------------------- |
-| --switch-bg-color               | switch 背景的颜色               |
-| --switch-ball-color             | switch 珠子的颜色               |
-| --border-color                  | switch 边框的颜色               |
-| --switch-hover-color            | 鼠标悬浮 switch 时边框的颜色    |
-| --switch-checked-color          | 打开 switch 时填充的颜色        |
-| --switch-checked-ball-color     | 打开 switch 时珠子的颜色        |
-| --switch-disabled-bg-color      | switch 被禁用时背景的颜色       |
-| --switch-disabled-checked-color | switch 被禁用且打开时背景的颜色 |
+| 名称                         | 作用                            |
+| ---------------------------- | ------------------------------- |
+| --switch-width               | switch 的宽度                   |
+| --switch-height              | switch 的高度                   |
+| --switch-bg                  | switch 背景的颜色               |
+| --switch-radius              | switch 圆角长度                 |
+| --switch-ball-width          | switch 珠子半径                 |
+| --switch-ball-bg             | switch 珠子的颜色               |
+| --switch-checked-ball-bg     | 打开 switch 时珠子的颜色        |
+| --switch-border-color        | switch 边框的颜色               |
+| --switch-hover-border-color  | 鼠标悬浮 switch 时边框的颜色    |
+| --switch-checked-bg          | 打开 switch 时填充的背景色      |
+| --switch-disabled-bg         | switch 被禁用时背景的颜色       |
+| --switch-disabled-checked-bg | switch 被禁用且打开时背景的颜色 |

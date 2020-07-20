@@ -15,9 +15,9 @@
 
 ### .breadcrumb
 
-| 名称                | 作用               |
-| ------------------- | ------------------ |
-| --divider           | 分隔符             |
-| --divider-color     | 分隔符的颜色       |
-| --link-color        | 导航链接的颜色     |
-| --active-link-color | 当前导航链接的颜色 |
+| 名称                       | 作用                          |
+| -------------------------- | ----------------------------- |
+| --breadcrumb-divider       | breadcrumb 分隔符             |
+| --breadcrumb-divider-color | breadcrumb 分隔符的颜色       |
+| --breadcrumb-color         | breadcrumb 导航链接的颜色     |
+| --breadcrumb-active-color  | breadcrumb 当前导航链接的颜色 |

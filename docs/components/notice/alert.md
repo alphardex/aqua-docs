@@ -15,6 +15,8 @@
 
 ### .alert
 
-| 名称          | 作用               |
-| ------------- | ------------------ |
-| --alert-color | alert 的背景的颜色 |
+| 名称            | 作用               |
+| --------------- | ------------------ |
+| --alert-padding | alert 的内边距     |
+| --alert-color   | alert 的背景的颜色 |
+| --alert-radius  | alert 的圆角长度   |
