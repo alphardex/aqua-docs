@@ -15,6 +15,6 @@
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-以上的效果仅仅用了一两行CSS就被完美地实现了，这就是工具类的威力
+以上的效果一行CSS都没写，仅用一些简单的工具类组合就被完美地实现了，这就是工具类的威力
 
 可[在此](https://github.com/alphardex/aqua.css/blob/master/src/utils.scss)查看所有的工具类，尽情地发挥你的创意吧！
