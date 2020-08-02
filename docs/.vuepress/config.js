@@ -31,6 +31,14 @@ module.exports = {
                 text: "aqua.vue",
                 link: "https://aquavue.netlify.com",
               },
+              {
+                text: "aqua.sp",
+                link: "https://github.com/alphardex/aqua.sp"
+              },
+              {
+                text: "aqua.weapp",
+                link: "https://github.com/alphardex/aqua.weapp"
+              }
             ],
           },
         ],
@@ -120,7 +128,7 @@ module.exports = {
         {
           title: "观念",
           collapsable: false,
-          children: ["original"],
+          children: ["original", "utility"],
         },
       ],
       "/donate/": [
