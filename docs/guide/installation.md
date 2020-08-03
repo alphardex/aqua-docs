@@ -8,7 +8,7 @@
 <link
   rel="stylesheet"
   type="text/css"
-  href="https://cdn.jsdelivr.net/npm/@alphardex/aqua.css@1.4.9/dist/aqua.min.css"
+  href="https://cdn.jsdelivr.net/npm/@alphardex/aqua.css@1.5.0/dist/aqua.min.css"
 />
 ```
 
