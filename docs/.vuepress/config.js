@@ -84,6 +84,7 @@ module.exports = {
           collapsable: false,
           children: [
             "data/accordion",
+            "data/avatar",
             "data/badge",
             "data/card",
             "data/carousel",

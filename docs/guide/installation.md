@@ -5,11 +5,7 @@
 在页面的`<head>`标签里添加以下行即可
 
 ```html
-<link
-  rel="stylesheet"
-  type="text/css"
-  href="https://cdn.jsdelivr.net/npm/@alphardex/aqua.css@1.5.2/dist/aqua.min.css"
-/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@alphardex/aqua.css@1.5.3/dist/aqua.min.css" />
 ```
 
 ## 通过 npm 安装
