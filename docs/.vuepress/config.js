@@ -28,17 +28,13 @@ module.exports = {
             text: "项目",
             items: [
               {
-                text: "aqua.vue",
-                link: "https://aquavue.netlify.com",
-              },
-              {
                 text: "aqua.sp",
-                link: "https://github.com/alphardex/aqua.sp"
+                link: "https://github.com/alphardex/aqua.sp",
               },
               {
                 text: "aqua.weapp",
-                link: "https://github.com/alphardex/aqua.weapp"
-              }
+                link: "https://github.com/alphardex/aqua.weapp",
+              },
             ],
           },
         ],
