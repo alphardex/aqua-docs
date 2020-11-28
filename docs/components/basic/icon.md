@@ -44,6 +44,7 @@
 
 | 名称                     | 作用                     |
 | ------------------------ | ------------------------ |
+| --close-icon-width       | 关闭 icon 的背景的宽度   |
 | --close-icon-color       | 关闭 icon 的背景的颜色   |
 | --close-icon-cross-color | 关闭 icon 中间叉叉的颜色 |
 

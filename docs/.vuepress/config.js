@@ -22,24 +22,6 @@ module.exports = {
         link: "/examples/basic",
       },
       {
-        text: "生态",
-        items: [
-          {
-            text: "项目",
-            items: [
-              {
-                text: "aqua.sp",
-                link: "https://github.com/alphardex/aqua.sp",
-              },
-              {
-                text: "aqua.weapp",
-                link: "https://github.com/alphardex/aqua.weapp",
-              },
-            ],
-          },
-        ],
-      },
-      {
         text: "观念",
         link: "/idea/original",
       },
