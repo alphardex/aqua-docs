@@ -10,11 +10,3 @@
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-## 可定制变量
-
-### .loader
-
-| 名称            | 作用           |
-| --------------- | -------------- |
-| --loading-color | loading 的颜色 |
