@@ -24,15 +24,13 @@
 
 ### .btn
 
-| 名称               | 作用            |
-| ------------------ | --------------- |
-| --btn-padding      | button 的内边距 |
-| --btn-color        | button 的文本色 |
-| --btn-bg           | button 的背景   |
-| --btn-border-width | button 边框长度 |
-| --btn-border-style | button 边框样式 |
-| --btn-border-color | button 边框颜色 |
-| --btn-radius       | button 圆角长度 |
+| 名称          | 作用            |
+| ------------- | --------------- |
+| --btn-padding | button 的内边距 |
+| --btn-color   | button 的文本色 |
+| --btn-bg      | button 的背景   |
+| --btn-border  | button 边框样式 |
+| --btn-radius  | button 圆角长度 |
 
 ### .btn-group
 

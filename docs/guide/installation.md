@@ -15,5 +15,5 @@
 ## 通过 npm 安装
 
 ```sh
-npm i @alphardex/aqua.css -S
+npm i @alphardex/aqua.css
 ```
